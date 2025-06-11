@@ -3,8 +3,8 @@
 ## 📚 Contents
 
 * [🛠️ Prerequisites](#️-prerequisites)
-* [📥 Step 1: Download JetPack 5.1.3 SD Card Image](#step-1-download-jetpack-513-sd-card-image)
-* [💾 Step 2: Flash JetPack 5.1.3 to microSD Card](#step-2-flash-jetpack-513-to-microsd-card)
+* [📥 Step 1: Download JetPack 5.1.3 SD Card Image](#-step-1-download-jetpack-513-sd-card-image)
+* [💾 Step 2: Flash JetPack 5.1.3 to microSD Card](#-step-2-flash-jetpack-513-to-microsd-card)
 * [🔄 Step 3: Boot Jetson Orin Nano with JetPack 5.1.3](#step-3-boot-jetson-orin-nano-with-jetpack-513)
 * [🔧 Step 4: Update Firmware (QSPI)](#step-4-update-firmware-qspi)
 * [📥 Step 5: Download JetPack 6.2 SD Card Image](#step-5-download-jetpack-62-sd-card-image)
